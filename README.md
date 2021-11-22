@@ -6,6 +6,7 @@ The purpose of this analysis is to use Excel for this Kickstarter data set on se
 A pivot table was created to depict the Successful, Failed, and Canceled campaigns by the months of the year which was filtered and sorted in asscending order by months to create the line chart below. Thus, this analysis shows the number of campaigns and success rate.
 ### 1) Analysis of Outcomes based on Launch Date
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/33900637/142798072-d55844c0-b68f-40e8-81cb-c54cfe8fe4a7.png)
+
 The COUNTIFS() function was used to group the ranges into Successful, Failed, and Canceled outcomes for the "plays" subcategory and a percentage outcome was calculated for each range.
 The chart below was created to visualize which determined whether the Goal values have an impact on outcome.
 ### 2) Analysis of Outcomes based on Goals
