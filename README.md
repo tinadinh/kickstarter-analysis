@@ -10,6 +10,7 @@ The COUNTIFS() function was used to group the ranges into Successful, Failed, an
 The chart below was created to visualize which determined whether the Goal values have an impact on outcome.
 ### 2) Analysis of Outcomes based on Goals
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/33900637/142798200-9105e331-3870-471e-96a3-dd52cb4745e2.png)
+
 From these analayses I found it challenging using a "COUNTIFS()" fuction to populate the number of success, fail and cancel based on the funding goal amount. It was easy to enter the wrong number or type a "<" when ">" was actually intended. It needed to be double checked for accurate results. It was also challenging using pitvot tables since I am unfamiliar and I had to double check which field should go under filters, columns, rows, or values. Overall, the Kickstarter dataset was fairly easy to work with because the instructions were understandable and the data was structured and needed minimal organizing. I overcame all these challenges by looking back at the modules, using the search engine on Excel, and with the assistance of Excel helping me formulate the COUNTIFS(). 
 
 # Results
